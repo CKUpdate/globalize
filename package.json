@@ -29,7 +29,8 @@
     "locales",
     "Unicode",
     "CLDR",
-    "JSON"
+    "JSON",
+    "flatten"
   ],
   "homepage": "https://github.com/jquery/globalize",
   "author": "The jQuery Project",
@@ -58,7 +59,7 @@
   "main": "./dist/node-main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jquery/globalize.git"
+    "url": "git://github.com/CKUpdate/globalize.git"
   },
   "bugs": {
     "url": "http://github.com/jquery/globalize/issues"
